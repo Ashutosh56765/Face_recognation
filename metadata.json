@@ -1,0 +1,10 @@
+{
+  "name": "Face Recognition Attendance & Authentication System",
+  "description": "AI-powered face recognition application for secure authentication, attendance tracking, and user management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
